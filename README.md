@@ -6,11 +6,11 @@
 
 ### A little about me
 
-- Work with confidence
-- Win as a team
-- Make things happen with strong ownership 
-- Constantly set a new standard for productivity & quality
-- Keep myself positive and supportive
+- Work with **CONFIDENCE**
+- Win as a **TEAM**
+- Make things happen with strong **OWNERSHIP**
+- Constantly set a new standard for **PRODUCTIVITY** and **QUALITY**
+- Keep myself **POSITIVE** and **SUPPORTIVE**
 
 
 
