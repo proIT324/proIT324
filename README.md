@@ -7,7 +7,7 @@
 
 - I'm highly experienced in EVM-compatible DApp development.
 - I'm constantly learning more about crypto.
-- I'm interested in co-founding or kickstarting creative startups.
+- I'm interested in co-founding or kickstarting creative startups in some form of fashion.
 
 
 ### Crypto
