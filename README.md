@@ -1,4 +1,4 @@
-#### I'm a crypto master at heart. Solving problems has been always important to me.
+#### I'm a senior software engineer at heart. Solving problems has been always important to me.
 
 ![wallpaper](https://i.ibb.co/CKD1cHH/template.png)
 
