@@ -1,12 +1,14 @@
 #### I'm a senior software engineer at heart. Solving problems has been always important to me.
 
-![wallpaper](https://i.ibb.co/CKD1cHH/template.png)
+
+- I'm highly experienced in React.js & React Native.
+- I'm constantly strengthening my web3 qualification.
+
 
 ---
 
 
-- I'm highly experienced in React.js & React Native.
-- I'm constantly strengthening my web3 qualification.
+
 
 ### React.js & Node.js
 - [Butlr](https://butlr.io)
