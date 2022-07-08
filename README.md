@@ -11,11 +11,14 @@
 
 
 ### React.js & Node.js
+- [Dominium DAO](https://dominiumdao.finance)
+- [KLKTN](https://klktn.com)
 - [Butlr](https://butlr.io)
+- [Truckbase](https://truckbase.ai/)
 - [Fulhaus](https://fulhaus.com)
 - [Keeper Memorials](https://www.mykeeper.com/)
-- [Truckbase](https://truckbase.ai/)
 - [Orvea](https://www.orvea.io/)
+- [Hashmasks](https://thehashmasks.com)
 - [Yakkyofy](https://www.yakkyofy.com)
 
 ### React Native
@@ -26,9 +29,3 @@
 - [Wagebox](https://apps.apple.com/gb/app/wagebox-easy-money-management/id1506631876)
 - [eyevip Check-in](https://apps.apple.com/tt/app/eyevip-check-in/id1471634873)
 - [CrossHelmet](https://apps.apple.com/tt/app/crosshelmet/id1471310161)
-
-### Crypto
-- [Phantom App](https://phantom.app/)
-- [Dominium DAO](https://dominiumdao.finance)
-- [KLKTN](https://klktn.com)
-- [Hashmasks](https://thehashmasks.com)
