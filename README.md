@@ -1,8 +1,7 @@
 #### I'm a senior software engineer at heart. Solving problems has been always important to me.
 
 
-- I'm highly experienced in React.js & React Native.
-- I'm constantly strengthening my web3 qualification.
+I'm a highly efficient and reliable professional who possesses a broad skill set for web & mobile application development. I've been working on a range of products and clients from working on scalability problems in production to launching new applications for startups. Most of my work consists of leading small-sized teams, by creating an easy development environment, fixing technical debts, applying the best practices, and mentoring juniors.
 
 
 ---
