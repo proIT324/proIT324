@@ -18,7 +18,7 @@ I'm a highly efficient and reliable professional who possesses a broad skill set
 ## React.js & Node.js
 - [Dominium Finance](https://dominium.finance)
 - [Truckbase - Spotter Labs](https://truckbase.ai/)
-- [Orvea](https://www.orvea.io/)
+- [Orvea - Pandore](https://www.orvea.io/)
 - [Yakkyofy](https://www.yakkyofy.com)
 - [Butlr](https://butlr.io)
 - [Fulhaus](https://fulhaus.com)
