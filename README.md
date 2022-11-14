@@ -1,4 +1,4 @@
-#### I'm a senior software engineer at heart. Solving problems has been always important to me.
+#### I'm a senior software engineer at heart. Solving problems has always been important to me.
 
 
 * I ❤️ Programming 💻.
