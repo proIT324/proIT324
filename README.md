@@ -14,12 +14,13 @@
   4. State Management: `Context API | Redux(Saga & Thunk) | React Query`
   5. Type Checkers: `PropTypes | Typescript | Flow`
   6. Form Helpers: `Redux Form | Formik + Yup`
-  7. Routing: `React-Router`
+  7. Routing: `React-Router | React Navigation`
   8. API Clients: `fetch API | Axios | Apollo GraphQL Client`
-  9. Utility Libraries: `Storybook | Lodash | Moment | Classnames | ImmutableJS | RxJS`
-  10. Testing: `Jest | Enzyme | Mocha | Chai | Cypress`
-  11. Localization: `React Intl | React i18next`
-  12. CI/CD: `Github Actions | Circle CI | Netlify`
+  9. Utility Libraries: `Storybook | Lodash | Moment | Classnames | ImmutableJS | D3 | RxJS`
+  10. Logging: `Instabug | Sentry.io | Rollbar`
+  11. Testing: `Jest | Enzyme | Mocha | Chai | Cypress`
+  12. Localization: `React Intl | React i18next`
+  13. CI/CD: `Github Actions | Circle CI | Netlify | Docker | App Center`
 
 ### Back-end (Node.js)
   0. Basics: `Event Emitters | Callback | REST | Buffers | Module System | Process Object | HTTP Protocol`
@@ -32,7 +33,7 @@
   7. Utility Libraries: `Async.js | PM2 | Passport | Nodemailer`
   8. Task Scheduling: `Agenda`
   9. Design Patterns: `Middleware | Singletone | Observer`
-  10. CI/CD: `Github Actions | Circle CI | Netlify`
+  10. CI/CD: `Github Actions | Circle CI | Netlify | Docker`
   11. Documenting & Mocking: `OpenAPI`
 
 ### Cloud Services
