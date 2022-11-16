@@ -7,7 +7,7 @@
   2. Python
 
 ### Front-end (React.js & React Native)
-  0. Basics: `React Hooks | Functional Copmonents`
+  0. Basics: `React Hooks | Functional Components`
   1. Build Tools: `NPM | Yarn | Webpack | Rollup | Turbopack`
   2. Frameworks: `Next.js`
   3. Styling: `Sass/SCSS | Styled-components | Emotion | TailwindCSS | MaterialUI | BEM Style`
@@ -48,13 +48,7 @@
 
 <br />
 
-## Summary 
-
-I'm a highly efficient and reliable professional who possesses a broad skill set for web & mobile application development. I've been working on a range of products and clients from working on scalability problems in production to launching new applications for startups. Most of my work consists of leading small-sized teams, by creating an easy development environment, fixing technical debts, applying the best practices, and mentoring juniors.
-
-<br />
-
-## React.js & Node.js
+## React.js + Node.js
 - [Dominium Finance](https://dominium.finance)
 - [Truckbase - Spotter Labs](https://truckbase.ai/)
 - [Orvea - Pandore](https://www.orvea.io/)
@@ -68,7 +62,7 @@ I'm a highly efficient and reliable professional who possesses a broad skill set
 
 <br />
 
-## React Native
+## React Native + Node.js
 - [Mesh Communities](https://apps.apple.com/us/app/mesh-communities/id1473534230)
 - [nēdl](https://apps.apple.com/us/app/n%C4%93dl-find-voices-be-heard/id1367332698)
 - [Pod Network](https://apps.apple.com/us/app/pod-network/id1481372679?ls=1)
